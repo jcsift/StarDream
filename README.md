@@ -2,7 +2,7 @@
 
 # 星岛梦(StarDream)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/xdm) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/xdm) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 星岛梦（StarDream）也有人称 **XDM**。它提供直连与 IPLC 机场订阅，常见叫法包括“StarDream VPN”“XDM VPN”“XDM 梯子”和“星岛梦机场”。可将订阅导入兼容客户端，再使用其中的代理节点；页面提供多种周期和流量方案，适合先按预算和用量快速筛选。
 
