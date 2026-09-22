@@ -11,7 +11,7 @@
 >
 > - **最低门槛**：60GB/月贴心小包年付 ¥96，折合 ¥8/月。
 > - **核心特点**：直连与 IPLC、月度大流量和 100GB 至 1TB 一次性流量包。
-> - **优惠与解锁**：页面列有 9 折码，原生 IP 节点支持主流流媒体与 AI 服务。
+> - **优惠与解锁**：中秋国庆活动年付及以上 8 折、年付以下 85 折，年付小包不参与；原生 IP 节点支持主流流媒体与 AI 服务。
 >
 > [查看套餐与优惠](#stardream-vpn-plans) · [查看测速与解锁](#stardream-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -42,10 +42,13 @@
 ## 星岛梦(StarDream)VPN套餐价格、优惠与选择建议
 
 > [!TIP]
+> **中秋国庆双节优惠活动**
 >
-> - **9折折扣码**：`nmw888`
+> - **年付及以上 8 折优惠码**：`2happy80`
+> - **年付以下 85 折优惠码**：`2happy85`
+> - **活动条件**：结账时输入对应付款周期的优惠码；**年付小包不参与本次活动**。
 > - **新手建议**：轻度使用选**贴心小包**，日常流媒体与 AI 工具推荐**进阶300G / 闪光500G**。
-> - 年付**8**折/2年付**7**折/3年付**6**折，配合折扣码后的实时价格以结算页为准
+> - **周期优惠**：页面另列年付 **8** 折、2 年付 **7** 折、3 年付 **6** 折；是否与活动码叠加及最终价格以结算页为准。
 >
 
 **支付方式** 支付宝 / 微信支付 / USDT
@@ -101,5 +104,7 @@
 - [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
